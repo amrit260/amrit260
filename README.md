@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @amrit260
-- 👀 I’m interested in NodeJs,ReactJs,ExpressJs and MongoDB.
+- 👋 Hi, I’m Amrit Sharma
+- 👀 I'm a fullstack typescript developer.
 - 💞️ I’m looking to collaborate on Node projects.
 - 📫 How to reach me sharmaamrit.a5432@gmail.com
 
